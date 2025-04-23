@@ -23,8 +23,9 @@ Self-taught programmer specializing in front-end development and program trading
   </a>
 </p>
 
-
+<!--
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiehJoe&show_icons=true&theme=algolia)
+!-->
 
 <!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=GtskinRJoe&theme=onedark&row=2&column=3)
